@@ -1,0 +1,4 @@
+git rm -r --cached .terraform
+git rm --cached terraform.tfstate
+git rm --cached -r aws-ec2/.terraform
+git rm --cached aws-ec2/terraform.tfstate
